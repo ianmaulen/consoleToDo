@@ -1,7 +1,7 @@
 # consoleToDo
-# Aplicación hecha con node para manejo de tareas "ToDo" con consola
+### Aplicación hecha con node para manejo de tareas "ToDo" con consola
 
-#TO RUN:
+### TO RUN:
 1.- npm install
 2.- node app.js
 
